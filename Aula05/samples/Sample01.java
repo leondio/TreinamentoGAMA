@@ -10,5 +10,7 @@ public class Sample01 {
         int n = rnd.nextInt(); //Espera qualquer número
 
         int b = rnd.nextInt(10); //Espera um número de 0 a 9
+
+        System.out.println(b + n);
     }
 }

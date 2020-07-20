@@ -1,0 +1,22 @@
+p{
+    color: brown;
+    font-size: large;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+}
+
+#chave p{
+    background-color: yellow;
+    font-size: 14px;
+}
+
+.destaque{
+    background-color: red;
+    color: white;
+}
+
+.minuscula{
+    text-transform: lowercase;
+}

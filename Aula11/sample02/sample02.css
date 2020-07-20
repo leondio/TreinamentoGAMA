@@ -1,0 +1,23 @@
+:root{
+    --corPadrao:#ff7800;
+}
+
+body{
+    color: brown;
+}
+.grupo01{
+    color:var(--corPadrao);
+    font-size: 8px;
+}
+
+.grupo01 p{
+    font-size: 2em;
+}
+
+p{
+    font-size: 16px;
+}
+
+#linha01{
+    color: red;
+}

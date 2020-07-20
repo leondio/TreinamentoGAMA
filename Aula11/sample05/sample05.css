@@ -1,0 +1,10 @@
+.alert{
+    margin: 5px;
+}
+.row{
+    background-color: yellow;
+}
+
+.btn-primary{
+    background-color: rgb(16, 172, 164);
+}
